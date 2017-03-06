@@ -1,3 +1,3 @@
 # QI
 
-QI is an ideation dashboard for the Quadrivium Institute. 
+Quadrivium Institute is a 3-day mathematics immersion for designers and engineers.
